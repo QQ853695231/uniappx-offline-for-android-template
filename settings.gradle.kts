@@ -32,3 +32,5 @@ rootProject.name = "uniappx-offline-for-android"
 include(":app")
 include(":uniappx")
 include(":kux-request")
+include(":cool-vibrate")
+include(":cool-open-web")
